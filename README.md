@@ -53,7 +53,7 @@ python 43_fast_rrt.py
 ![Alt Text](Screenshot_2024-05-11_065125.png)
 - Performance Comparison:
    - Fast-RRT significantly outperforms traditional RRT and RRT* algorithms in terms of computation time.
-   - Achieves up to 20x faster results in challenging  scenarios.
+   - Achieves up to 20x faster results in challenging scenarios.
 ## References
 - Wu et al., "Fast-RRT: A RRT-based optimal path finding method," Applied Sciences (Switzerland), 2021. DOI: 10.3390/app112411777
 - Zhang et al., "An Improved Path Planning Algorithm Based on RRT," ICTech 2022. DOI: 10.1109/ICTech55460.2022.00037
